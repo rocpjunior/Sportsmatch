@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GermanyWorldCup</string>
+    <string name="lbl_user">Usuário de Teste</string>
+    <string name="lbl_team">Alemanha</string>
+    <string name="lbl_status">Atacante</string>
+    <string name="lbl_percentage">00.000</string>
+    <string name="img_player">Imagem do Jogador</string>
+    <string name="error_api">Erro de consumo com a API</string>
+    <string name="world_cups_wins">Copas do Mundo Vencidas</string>
+    <string name="world_cups_history">Copas do Mundo Disputadas</string>
+</resources>
